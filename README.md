@@ -4,7 +4,7 @@ Qiskit Quantum Computing exercises and examples provided by IBM
 [Learn more about the exercises here](https://qiskit.org/textbook/preface.html)
 
 ## Setup
-1. The Qiskit textbook uses [Jupyter Notebook.](https://jupyter.org/install)
+1. The Qiskit textbook uses [Jupyter Notebook.](https://jupyter.org/install). If you use pip, just use the command `pip install notebook` and type `jupyter notebook` to run it.
 
 2. Install the `qiskit_textbook` package with the command: `pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src`. You can also build it yourself using the repo [here](https://github.com/qiskit-community/qiskit-textbook), navigating to the root and running the command `pip install ./qiskit-textbook-src`
 
